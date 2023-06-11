@@ -1,7 +1,7 @@
 <body>
 <h1 align="center">👾 ~ 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 ~ 👾</h1>
 <div align="center">
-<a href="https://discord.com/users/1101222625956597871" >
+<a href="https://discord.com/users/1101222625956597871" target="_blank">
 <img src="https://lanyard-badge.vercel.app/api/1101222625956597871?hideDiscrim=true"/>
 </a>
 	<p>𝒜 𝓈𝓉𝓇𝑜𝓃𝑔 𝓅𝑒𝓇𝓈𝑜𝓃 𝒾𝓈 𝓃𝑜𝓉 𝓉𝒽𝑒 𝑜𝓃𝑒 𝓌𝒽𝑜 𝒹𝑜𝑒𝓈𝓃'𝓉 𝒸𝓇𝓎.</p>
